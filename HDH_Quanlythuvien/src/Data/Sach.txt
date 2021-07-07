@@ -1,0 +1,12 @@
+MS1,Kingdom Vương giả thiên hạ,Hara Yasuhisa,2019,Khác,1,10
+MS2,Những món cơm ngon,Tiêu Quỳnh,2019,Giáo trình,2,9
+MS3,Truyện kể tây tạng,Nhiều tác giả,2019,Giáo trình,3,8
+MS4,Giải thuật và lập trình,Lê Minh Hoàng,2019,Giáo trình,4,7
+MS5,Biết hài lòng,Leo Babauta,2019,Giáo trình,5,6
+MS6,Điểm mù,Max H,2019,Giáo trình,6,5
+MS7,Kinh Tế Học,Nhiều Tác Giả,2019,Giáo trình,7,4
+MS8,Đắc Nhân Tâm,Dale Carnegie,2019,Giáo trình,8,3
+MS9,SherLock Holmes,Arthur Conan Doyle,2019,Giáo trình,9,2
+MS10,Khám Phá Thế Giới Diệu Kì,Marfé Ferguson Delano,2019,Giáo trình,10,1
+MS11,ádasda,ádasd,12312,Khóa luận/Tiểu luận,1,1
+MS12,qewqe,qưeqwe,123,Sách tham khảo,1,2
